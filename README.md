@@ -1,4 +1,4 @@
 Project Collaborators: 
 Debaruna Saha and Soham Kulkarni
 
-This Project is detects laughter in real time and save snaps and video of those moments through webcam of a laptop.
+This project detects laughter in real time and save snaps and videos of those moments through webcam of a laptop.
