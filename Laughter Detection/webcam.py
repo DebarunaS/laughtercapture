@@ -1,7 +1,6 @@
 ### code to trigger webcam
 
 # import numpy and opencv
-import np as numpy
 import cv2
 
 # open default camera
